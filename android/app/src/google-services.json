@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "977859965903",
+    "firebase_url": "https://kropsmaps.firebaseio.com",
+    "project_id": "kropsmaps",
+    "storage_bucket": "kropsmaps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977859965903:android:6ffe10e3ffdd95c0",
+        "android_client_info": {
+          "package_name": "com.kropsmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977859965903-d4landfdpm3kamhkaaek61pk637l6gtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kropsmaps",
+            "certificate_hash": "c4eedf905e8d1a36dde3e4850d950bd84bdf1839"
+          }
+        },
+        {
+          "client_id": "977859965903-akrgjfjsvc5gniueh2eehr6llf7aolob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKe_C_5FuREAvmKQQOU5kLZeefS3jSz5M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977859965903-akrgjfjsvc5gniueh2eehr6llf7aolob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
